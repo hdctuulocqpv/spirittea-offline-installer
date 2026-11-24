@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Hey human, we've got problems! This town is crawling with troublesome spirits, and you're the only one who can see them. You'd better get that old bathhouse up and running, maybe that'll help them chill out!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | 2 GHz | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 550/equivalent or higher / Rec: NVIDIA GeForce GTX 760/equivalent or higher | Metal-capable GPU |
+| **OS *** | Windows 7 or later | Windows 7 or later |
 
 ---
 
